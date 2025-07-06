@@ -23,8 +23,6 @@
   </a>
 </p>
 
-<img align="right" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="300px" alt="Matrix Code"/>
-
 ### 💻 What I'm doing now / Lo que hago ahora
 
 Currently working with **C#** and **MySQL Server**, building robust and scalable systems.<br/>
